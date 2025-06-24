@@ -1,2 +1,2 @@
 # hello-world
-practicing GitHub flow
+practicing GitHub flow for an MSRI Lab!
